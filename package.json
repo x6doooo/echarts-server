@@ -1,0 +1,23 @@
+{
+  "name": "echarts-server",
+  "version": "0.0.1",
+  "main": "index.js",
+  "keywords": [
+    "echarts",
+    "data visualization",
+    "data analysis"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Dx Yang",
+    "email": "x6doooo@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "echarts": "^3.6.2",
+    "opn": "^5.1.0",
+    "uuid": "^3.1.0"
+  }
+}
